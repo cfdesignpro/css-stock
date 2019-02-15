@@ -1,5 +1,0 @@
-#elementid {
- -webkit-box-shadow: 7px 14px 49px -16px rgba(0,0,0,0.75);
- -moz-box-shadow: 7px 14px 49px -16px rgba(0,0,0,0.75);
- box-shadow: 7px 14px 49px -16px rgba(0,0,0,0.75);
-}
